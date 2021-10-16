@@ -1,5 +1,5 @@
 {
-"Kado": {
+"Kado": 
 [{
         "id": "1",
         "bank_code": "10",
@@ -5790,5 +5790,5 @@
         "is_commercial_card": "0",
         "is_support_installment": "1);"
     }
-]}
+}
 }
